@@ -1,0 +1,22 @@
+- <!-- index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blood Bank Web App</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div id="app">
+        <h1>Blood Bank Management</h1>
+        <form id="donorForm">
+            <!-- Form fields for donor information -->
+        </form>
+        <div id="donorList">
+            <!-- Display list of donors -->
+        </div>
+    </div>
+    <script src="app.js"></script>
+</body>
+</html>
